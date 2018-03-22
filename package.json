@@ -2,7 +2,7 @@
   "name": "workouts-app",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "npm install && meteor run"
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.36",
