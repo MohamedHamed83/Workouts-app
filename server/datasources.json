@@ -1,15 +1,16 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
+    "connector": "memory",
+    "file": "localData.json"
   },
   "mlab": {
-    "host": "ds223009.mlab.com",
-    "port": 23009,
+    "host": "ds223019.mlab.com",
+    "port": 23019,
     "database": "workouts",
-    "password": "Password1",
+    "password": "password1",
     "name": "mlab",
     "connector": "mongodb",
-    "user": "hamedM"
+    "user": "testUser"
   }
 }

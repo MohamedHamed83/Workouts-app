@@ -36,7 +36,7 @@
     "public": false
   },
   "cat": {
-    "dataSource": "mlab",
+    "dataSource": "db",
     "public": true
   }
 }
