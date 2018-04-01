@@ -36,6 +36,14 @@
     "public": false
   },
   "cat": {
+    "dataSource": "firebaseDb",
+    "public": true
+  },
+  "groups": {
+    "dataSource": "mlab",
+    "public": true
+  },
+  "workouts": {
     "dataSource": "mlab",
     "public": true
   }
